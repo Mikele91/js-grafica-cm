@@ -11,7 +11,8 @@ for ( let i= 1; i <= numero; i++){
 }
 document.addEventListener("click",
 function(event){
-    return event.target.classList.toggle("color");
+    event.target.classList.toggle("color");
+    alert(event.target.innerHTML)
 }
 )
 
