@@ -26,4 +26,8 @@ function(event){
 )
 
 
-// Al click su una cella dovrà essere mostrato con un alert il numero della cella e il suo background diventerà rosso.
+
+
+
+
+
